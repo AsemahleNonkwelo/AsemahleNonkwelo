@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Asemahle Nonkwelo  
+💻 Aspiring Software Developer | Cybersecurity Enthusiast | Cloud Learner  
 
-<!--
-**AsemahleNonkwelo/AsemahleNonkwelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a third-year Information Systems student passionate about building secure and scalable systems.  
+🚀 I enjoy learning new technologies and applying them to real-world problems.  
+🌍 Based in South Africa  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills  
+- **Languages:** C#, SQL, HTML, CSS, JavaScript  
+- **Tools:** Visual Studio, VS Code, Git, GitHub, XAMPP  
+- **Areas of Interest:** Software Development, Cybersecurity, Cloud Computing  
+
+---
+
+### 🌱 Currently Working On  
+- Enhancing my **GiftOfTheGivers-App** with data persistence  
+- Developing a SAWeatherPlus app using an API 
+
+---
+
+### 📫 Let's Connect  
+📧 [mahlenonkwelo@gmail.com]
+💼 [LinkedIn](https://www.linkedin.com) *
+
+✨ *"Code. Learn. Improve."*
+
