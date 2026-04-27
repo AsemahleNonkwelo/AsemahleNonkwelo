@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Asemahle Nonkwelo  
 💻 Aspiring Software Developer | Cybersecurity Enthusiast | Cloud Learner  
 
-🎓 I'm a third-year Information Systems student passionate about building secure and scalable systems.  
+🎓 I'm a fourth-year Information Systems student passionate about building secure and scalable systems.  
 🚀 I enjoy learning new technologies and applying them to real-world problems.  
 🌍 Based in South Africa  
 
 ---
 
 ### 🧠 Skills  
-- **Languages:** C#, SQL, HTML, CSS, JavaScript  
-- **Tools:** Visual Studio, VS Code, Git, GitHub, XAMPP  
+- **Languages:** C#, SQL, HTML, CSS, JavaScript, React
+- **Tools:** Visual Studio, VS Code, Git, GitHub, XAMPP , Andriod studio 
 - **Areas of Interest:** Software Development, Cybersecurity, Cloud Computing  
 
 ---
